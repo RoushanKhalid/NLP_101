@@ -54,6 +54,9 @@ Designed specifically for self-study, research foundations, and production-grade
 | **[Project 02: Ham/Spam TF-IDF](Project02_Ham_Spam_Classification_using_BoW,_TF_IDF.ipynb)** | SMS Spam Filtering | TF-IDF Vectorizer + Scikit-Learn Classifiers |
 | **[Project 03: Text Classification with Word2Vec](Project03_Text_Classification_with_Word2Vec_and_AvgWord2Vec.ipynb)** | Semantic Document Classification | Gensim Word2Vec + Average Word2Vec aggregation |
 | **[Project 04: Kindle Review Sentiment Analysis](Project04_Kindle_Review_Sentiment_Analysis.ipynb)** | E-commerce Customer Review Sentiment | End-to-end NLP pipeline with feature extraction & model evaluation |
+| **[Project 05 (Template): BiLSTM Sentiment Classifier](Project05_Template_BiLSTM_Sentiment_Classifier.ipynb)** | Deep Sentiment Sequence Classification | PyTorch `nn.LSTM(bidirectional=True)`, embeddings, training loop, live inference |
+| **[Project 06 (Template): End-to-End RAG Document Assistant](Project06_Template_End_to_End_RAG_Document_Assistant.ipynb)** | Enterprise Document QA Assistant | Sliding-window chunking, Dense vector indexing, Cosine similarity, Grounded prompts |
+| **[Project 07 (SOTA Flagship): Hybrid RAG & Re-Ranking System](Project07_SOTA_Hybrid_RAG_and_Reranking_System.ipynb)** | Production-Grade AI Knowledge Engine | Dense Vectors + BM25 Lexical, Reciprocal Rank Fusion (RRF), Cross-Encoder Re-Ranking, Faithfulness scoring |
 
 ---
 
